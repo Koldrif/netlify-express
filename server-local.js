@@ -1,4 +1,5 @@
 'use strict';
+//npm install && npm run build
 
 const app = require('./express/server');
 
